@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_coffee_house=self.webpackChunkreact_coffee_house||[]).push([[273],{6273:function(e,c,f){f(2791);c.Z=f.p+"static/media/Logo-white.f0e03d2af9e994183ce78c68eca0930d.svg"}}]);
+//# sourceMappingURL=273.af2d8713.chunk.js.map

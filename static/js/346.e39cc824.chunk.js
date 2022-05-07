@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_coffee_house=self.webpackChunkreact_coffee_house||[]).push([[346],{5346:function(e,n,t){t.r(n);var c=t(8519),s=t(184);n.default=function(){return(0,s.jsxs)("div",{style:{display:"flex",flexDirection:"column",alignItems:"center",justifyContent:"center"},children:[(0,s.jsx)("h2",{children:"404 - Page not found..."}),(0,s.jsx)(c.Z,{})]})}}}]);
+//# sourceMappingURL=346.e39cc824.chunk.js.map
