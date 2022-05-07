@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Merienda:wght@400;700&display=swap');
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Merienda', cursive;
+
+  * {
+    padding: 0;
+    margin: 0;
+  }
+
+  
+.animationApp-enter {
+  opacity: 0;
+  transform: translateX(100%);
+}
+.animationApp-enter-active {
+  opacity: 1;
+  transform: translateX(0%);
+  transition: all 1000ms;
+}
+.animationApp-exit {
+  opacity: 1;
+  transform: translateX(0%);
+}
+.animationApp-exit-active {
+  opacity: 0;
+  transform: translateX(-100%);
+  transition: all 1000ms;
+}
+}

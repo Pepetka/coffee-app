@@ -1,0 +1,11 @@
+.navigation {
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+  align-items: flex-end;
+  font-size: 12px;
+
+  a {
+    text-decoration: none;
+  }
+}
